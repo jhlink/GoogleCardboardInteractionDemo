@@ -1,0 +1,7 @@
+obj/
+Temp/
+*.apk
+*.csproj 
+*.sln
+Library/
+UnityPackageManager/
