@@ -4051,7 +4051,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Hold Click
+  m_Text: Hover
 --- !u!222 &1363345744
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4208,8 +4208,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1002122155}
-        m_MethodName: turnBlue
+      - m_Target: {fileID: 0}
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4481,7 +4481,7 @@ GameObject:
   - component: {fileID: 2122469242}
   - component: {fileID: 2122469241}
   m_Layer: 5
-  m_Name: ClickHold
+  m_Name: Hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
